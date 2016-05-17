@@ -1,0 +1,133 @@
+/* Corey Laurence 03/30/2016 */
+
+#wrapper {
+	border-radius: 25px;
+	width: 80%;
+	margin: 0 auto 0 auto;
+	background-color: #375E97;
+	color: #FFFFFF;
+	padding: 1em;
+	height: 100%; 
+}
+
+#q1 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q2 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q3 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q4 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q5 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q6 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q7 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q8 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q9 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q10 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q11 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q12 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#q13 {
+	border-radius: 25px;
+    border: 2px solid #FB6542;
+    padding: 1em; 
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+	
+img {
+	max-width: 100%;
+}
+
+/*for tablet*/
+@media only screen and (max-width: 64em) {
+	#wrapper {
+		width: 100%
+	}
+}
+
+/*for phone*/
+@media only screen and (max-width: 37.5em) {
+	img { 
+		display: none;
+	}
+}
